@@ -32,7 +32,7 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeevan-r-48ba8233a">
+  <a href="https://www.linkedin.com/in/jeevanrebbalapalli">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
   </a>
 </p>
